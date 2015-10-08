@@ -10,4 +10,3 @@
 * [レポジトリのクローン方法](http://ronpro2015f.github.io/01/#/6/1)
 * [ブランチの作成方法](http://ronpro2015f.github.io/01/#/6/2)
 * [pull requestの送り方](http://ronpro2015f.github.io/01/#/9)
-
